@@ -7,28 +7,28 @@
             "location":"Pune",
             "occupation":"Software Engineer",
             "phone": 9742877887,
-            "email":"sushen.birari@gmail.com",
+            "email":"sushen.birari@team.telstra.com",
             "linkedin":"https://www.linkedin.com/in/sushen-birari-csm-8401a559/"
     },
     {
         "id":2,
-        "firstName": "Omkar",
-        "lastName":"Muravne",
-        "location":"Bangalore",
-        "occupation":"UI/Ux Trainer and Softskill Mentor",
-        "phone": 9986406107,
-        "email":"omkar2004@gmail.com",
-        "linkedin":"https://www.linkedin.com/in/omkar-muravane-664b9922/"
+        "firstName": "Charan",
+        "lastName":"TC",
+        "location":"Pune",
+        "occupation":"Team Lead",
+        "phone": 9686698989,
+        "email":"charan.tc@team.telstra.com",
+        "linkedin":"https://www.linkedin.com/in/charan-tc-664b9922/"
     },
     {
         "id":3,
-        "firstName": "Sseema",
-        "lastName":"Bhat",
-        "location":"Bangalore",
-        "occupation":"HR Consultant",
-        "phone": 7760089192,
-        "email":"prabhu.seema15@gmail.com",
-        "linkedin":"https://www.linkedin.com/in/sseema-bhat-4526a468/"
+        "firstName": "Harish",
+        "lastName":"Meena",
+        "location":"Pune",
+        "occupation":"Siftware Engineer",
+        "phone": 9960717887,
+        "email":"harish.meena@team.telstra.com",
+        "linkedin":"https://www.linkedin.com/in/harish-meena-4526a468/"
     }
 ]
 
